@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Adactin_hotel" verbose="2">
+  <test name="Adactin_hotel">
+    <classes>
+      <class name="org.properties.Adactin_Hotel"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
